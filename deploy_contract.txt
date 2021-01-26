@@ -1,0 +1,4 @@
+near deploy \
+  --contractName=figment-mario-learn.testnet \
+  --keyPath=./credentials/testnet/figment-mario-learn.testnet.json \
+  --wasmFile=./contract.wasm
